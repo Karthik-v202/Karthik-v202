@@ -1,4 +1,4 @@
-![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://github.com/Karthik-v202/Karthik-v202/blob/main/download.jpeg))
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://github.com/Karthik-v202/Karthik-v202/blob/main/download.jpeg)
 <h1 align="center">Hi 👋, I'm Karthik VS</h1>
 <h3 align="center">Asspiring Mechanical Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-v202&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-v202" /> </p>
