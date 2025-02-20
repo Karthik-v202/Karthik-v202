@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://github.com/Karthik-v202/Karthik-v202/blob/main/download.jpeg)
+![logo][(https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://github.com/Karthik-v202/Karthik-v202/blob/main/download.jpeg](https://www.google.com/imgres?q=engineering%20drawing%20cover%20page&imgurl=https%3A%2F%2Fwww.ghsspecialprojects.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fengineering-drawing-sheets.jpg&imgrefurl=https%3A%2F%2Fwww.ghsspecialprojects.com%2Ffree-design-service%2Fengineering-drawing-sheets%2F&docid=NMZCg7CbLKrrdM&tbnid=JUsSQS4LAcYZxM&vet=12ahUKEwiQjYia1NKLAxWMRmcHHf_ZJnoQM3oECGgQAA..i&w=750&h=420&hcb=2&ved=2ahUKEwiQjYia1NKLAxWMRmcHHf_ZJnoQM3oECGgQAA))
 <h1 align="center">Hi 👋, I'm Karthik VS</h1>
 <h3 align="center">Asspiring Mechanical Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-v202&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-v202" /> </p>
