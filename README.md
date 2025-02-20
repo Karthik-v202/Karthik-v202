@@ -1,4 +1,6 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCgJMKOntwBr-L9HNIHZMpWDypq0ca2Bt4g&s)
+<p>
+  ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCgJMKOntwBr-L9HNIHZMpWDypq0ca2Bt4g&s)
+</p>
 <h1 align="center">Hi 👋, I'm Karthik VS</h1>
 <h3 align="center">Asspiring Mechanical Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-v202&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-v202" /> </p>
