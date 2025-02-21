@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik-v202" alt="karthik-v202" /></a> </p>
 
-<img align="right" alt="Mechanical Engineering" width="400" src="https://github.com/Karthik-v202/Karthik-VS/blob/main/giphy.gif">
+<img align="right" alt="Mechanical Engineering" width="400" src="https://smart-engineering.tech/assets/img/gallery/gif-2.gif">
 
 
 
