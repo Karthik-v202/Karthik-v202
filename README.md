@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://github.com/Karthik-v202/Karthik-v202/blob/main/Green%20and%20Black%20Modern%20Gamer%20YouTube%20Banner.png)"  />
+  <img height="200" src="https://github.com/Karthik-v202/Karthik-v202/blob/main/Green%20and%20Black%20Modern%20Gamer%20YouTube%20Banner.png?raw=true"  />
 </div>
 
 ###
