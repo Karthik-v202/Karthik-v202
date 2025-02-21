@@ -4,10 +4,35 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-###
+<h1 align="center">Hi 👋, I'm Karthik VS</h1>
+<h3 align="center">Asspiring Mechanical Engineer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-v202&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-v202" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik-v202" alt="karthik-v202" /></a> </p>
+
+<img align="right" alt="Mechanical Engineering" width="400" src="https://github.com/Karthik-v202/Karthik-VS/blob/main/giphy.gif">
+
+
+
+- 🌱 I’m currently learning **Solidworks and CAD**
+
+- 💬 Ask me about **Html,Css,Javascript,Arduino and Robotics**
+
+- 📫 How to reach me **karthikvs2552@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/karthik-v-s-926b34335" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=karthikvs2552@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="12" />
@@ -25,24 +50,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
-
-###
-
-<h3 align="left">Portfolio</h3>
-
-###
-
-<img align="right" height="150" src="https://smart-engineering.tech/assets/img/gallery/gif-2.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/karthik-v-s-926b34335" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=karthikvs2552@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
-###
