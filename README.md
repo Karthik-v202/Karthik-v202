@@ -50,3 +50,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karthik-v202&show_icons=true&locale=en&layout=compact" alt="karthik-v202" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-v202&show_icons=true&locale=en" alt="Karthik-v202" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik-v202&" alt="Karthik-v202" /></p>
