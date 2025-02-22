@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Html,Css,Javascript,Arduino and Robotics**
 
-- ⚡  All of my projects are available at github.com/Karthik-v202
+- ⚡  All of my projects are available at **github.com/Karthik-v202**
 
 - 📫 How to reach me **karthikvs2552@gmail.com**
 
