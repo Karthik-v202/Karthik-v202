@@ -54,6 +54,8 @@
   <img width="12"/>
   <img src="https://karthik-v202.github.io/Karthik-v202/Icon_FreeCAD.png" height="30" alt="freecad" />
   <img width="12"/>
+  <img src="https://karthik-v202.github.io/Karthik-v202/download.png" height="30" alt="freecad" />
+  <img width="12"/>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karthik-v202&show_icons=true&locale=en&layout=compact" alt="karthik-v202" /></p>
