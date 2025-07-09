@@ -54,7 +54,7 @@
   <img width="12"/>
   <img src="https://karthik-v202.github.io/Karthik-v202/Icon_FreeCAD.png" height="30" alt="freecad" />
   <img width="12"/>
-  <img src="https://karthik-v202.github.io/Karthik-v202/download.png" height="30" alt="freecad" />
+  <img src="https://karthik-v202.github.io/Karthik-v202/download.png" height="30" alt="AutoCAD" />
   <img width="12"/>
 </div>
 
