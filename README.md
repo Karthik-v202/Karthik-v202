@@ -56,6 +56,16 @@
   <img width="12"/>
   <img src="https://karthik-v202.github.io/Karthik-v202/download.png" height="30" alt="AutoCAD" />
   <img width="12"/>
+  <img src="https://karthik-v202.github.io/Karthik-v202/download%20(1).png" height="30" alt="Fusion 360" />
+  <img width="12"/>
+  <img src="https://karthik-v202.github.io/Karthik-v202/download%20(2).png" height="30" alt="Matplotlib" />
+  <img width="12"/>
+  <img src="https://karthik-v202.github.io/Karthik-v202/download%20(3).png" height="30" alt="Numpy" />
+  <img width="12"/>
+  <img src="https://karthik-v202.github.io/Karthik-v202/download%20(4).png" height="30" alt="Easy EDA" />
+  <img width="12"/>
+  <img src="https://karthik-v202.github.io/Karthik-v202/images.jpeg" height="30" alt="MatLAB" />
+  <img width="12"/>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karthik-v202&show_icons=true&locale=en&layout=compact" alt="karthik-v202" /></p>
