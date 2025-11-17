@@ -66,7 +66,7 @@
   <img width="12"/>
   <img src="https://karthik-v202.github.io/Karthik-v202/images.jpeg" height="30" alt="MatLAB" />
   <img width="12"/>
-  <img src="https://karthik-v202.github.io/Karthik-v202/download.png" height="30" alt="SolidWorks" />
+  <img src="https://karthik-v202.github.io/Karthik-v202/SW.png" height="30" alt="SolidWorks" />
   <img width="12"/>
   <img src="https://karthik-v202.github.io/Karthik-v202/nx-cad-cam.svg" height="30" alt="NX Cad" />
   <img width="12"/>
