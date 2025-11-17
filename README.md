@@ -66,6 +66,10 @@
   <img width="12"/>
   <img src="https://karthik-v202.github.io/Karthik-v202/images.jpeg" height="30" alt="MatLAB" />
   <img width="12"/>
+  <img src="https://karthik-v202.github.io/Karthik-v202/6011d13a2a08e9000490aba1.png" height="30" alt="MatLAB" />
+  <img width="12"/>
+  <img src="https://karthik-v202.github.io/Karthik-v202/nx-cad-cam.svg" height="30" alt="MatLAB" />
+  <img width="12"/>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karthik-v202&show_icons=true&locale=en&layout=compact" alt="karthik-v202" /></p>
