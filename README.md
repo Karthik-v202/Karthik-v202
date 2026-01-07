@@ -54,7 +54,7 @@
   <img width="12"/>
   <img src="https://karthik-v202.github.io/Karthik-v202/Icon_FreeCAD.png" height="30" alt="freecad" />
   <img width="12"/>
-  <img src="https://karthik-v202.github.io/Karthik-v202/download.png" height="30" alt="AutoCAD" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autocad-icon.png" height="30" alt="AutoCAD" />
   <img width="12"/>
   <img src="https://karthik-v202.github.io/Karthik-v202/download%20(1).png" height="30" alt="Fusion 360" />
   <img width="12"/>
@@ -70,7 +70,8 @@
   <img width="12"/>
   <img src="https://karthik-v202.github.io/Karthik-v202/nx-cad-cam.svg" height="30" alt="NX Cad" />
   <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg" height="30" alt="Ansys" />
+  <img src="https://companieslogo.com/img/orig/ANSS_BIG.D-b8dd2f89.svg?t=1720244490&download=true" height="30" alt="Ansys" />
+  <img width="12"/>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karthik-v202&show_icons=true&locale=en&layout=compact" alt="karthik-v202" /></p>
