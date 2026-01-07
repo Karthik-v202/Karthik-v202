@@ -70,6 +70,7 @@
   <img width="12"/>
   <img src="https://karthik-v202.github.io/Karthik-v202/nx-cad-cam.svg" height="30" alt="NX Cad" />
   <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg" height="30" alt="Ansys" />
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karthik-v202&show_icons=true&locale=en&layout=compact" alt="karthik-v202" /></p>
