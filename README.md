@@ -72,6 +72,8 @@
   <img width="12"/>
   <img src="https://companieslogo.com/img/orig/ANSS_BIG.D-b8dd2f89.svg?t=1720244490&download=true" height="30" alt="Ansys" />
   <img width="12"/>
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_white.svg" height="30" alt="OpenCV" />
+  <img width="12"/>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karthik-v202&show_icons=true&locale=en&layout=compact" alt="karthik-v202" /></p>
